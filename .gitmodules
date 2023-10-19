@@ -1,0 +1,4 @@
+[submodule "aljorge2.github.io"]
+	path = aljorge2.github.io
+	url = git@github.com:aljorge2/aljorge2.github.io.git
+	branch = main
