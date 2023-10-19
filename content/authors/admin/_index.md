@@ -41,12 +41,12 @@ education:
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: Software
     items:
-    - name: Python
+    - name: git
       description: ''
-      percent: 80
-      icon: python
+      percent: 100
+      icon: git-alt
       icon_pack: fab
     - name: Data Science
       description: ''
@@ -55,46 +55,46 @@ skills:
       icon_pack: fas
     - name: SQL
       description: ''
-      percent: 40
+      percent: 100
       icon: database
       icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
+  - name: Languages
+    color: '#f76497'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
+      - name: R/Rstudio
         description: ''
         percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Reading
+        icon: r-project
+        icon_pack: fab
+      - name: Python
         description: ''
-        percent: 80
-        icon: book
-        icon_pack: fas
+        percent: 100
+        icon: python
+        icon_pack: fab
+      - name: bash
+        description: ''
+        percent: 100
+        icon: hashtag
+        icon_pack: fab
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  #- icon: envelope
+  #  icon_pack: fas
+  #  link: '/#contact'
+  #- icon: twitter
+  #  icon_pack: fab
+  #  link: https://twitter.com/GeorgeCushen
+  #  label: Follow me on Twitter
+  #  display:
+   #   header: true
+  #- icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #  icon_pack: fas
+  #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/aljorge2
