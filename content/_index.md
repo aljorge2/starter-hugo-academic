@@ -62,27 +62,63 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Research Assistant
+          company: Dr. Melissa Wilson Sex Chromosome Lab
+          company_url: 'https://www.sexchrlab.org/'
+         # company_logo: org-gc
+          location: Arizona
+          date_start: '2021-11-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
+          description: Currently working on two projects. I research sex differential gene expression in viral-mediated Hepatocellular Carcinoma. I also help develop a CURE at ASU Online and analyzing the engagement of students in the course.
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Teaching Assistant- Computing for Research & CURE
+          company: Arizona State University
+          #company_url: ''
+          #company_logo: org-x
+          location: Arizona
+          date_start: '2022-08-01'
+          date_end: 
+          description: Educated students on writing bash scripts and logging onto a cluster through SSH. I also taught students how to work with SAM and BAM files, run sequence alignment algorithms, and call variants. 
+
+        - title: Compliance Editor
+          company: American Preparatory Academy
+          company_url: 'https://www.americanprep.org/'
+         # company_logo: org-x
+          location: Utah
+          date_start: '2021-08-01'
+          date_end: '2023-05-31'
+          description: |2-
+              Responsibilities included:
+
+
+              * Editing IEPs for special education students
+              * Managing projects for special education services
+              * Taking notes for IEP quality assurance
+              * Converting special education files to a digital format
+
+        - title: Research Aide
+          company: SciHub ASU
+          company_url: 'https://scihub.asu.edu/'
+          #company_logo: org-x
+          location: Arizona 
+          date_start: '2020-05-08'
+          date_end: '2021-11-01'
+          description: Lead the Flourescence Spectroscopy Project where I aimed to create a portable flourescence spectrometer for consumer use. I learned how to operate spectorscopy equipment. I also drafted market studies for products and constructed electric circuits using reflow soldering.
+
+        - title: Commercial Intern
+          company: Civica
+          company_url: 'https://civicarx.org/'
+          #company_logo: org-x
+          location: Utah 
+          date_start: '2020-05-08'
+          date_end: '2021-03-01'
+          description: |2-
+              Responsibilities included:
+
+
+              * Querying, creating, and maintaing drug sales databases with Tableau and Excel
+              * Drafting sales agreement for hospital partners
+              * Creating government official datasheets
     design:
       columns: '2'
   - block: accomplishments
