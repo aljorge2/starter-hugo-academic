@@ -124,7 +124,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Conferences and Papers'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -163,7 +163,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: Posts
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -204,10 +204,12 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Differential Expression Analysis
+          tag: DEA
         - name: Other
-          tag: Demo
+          tag: CURE
+          tag: Portfolio
+          tag: Carpentries
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
