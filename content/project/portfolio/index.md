@@ -19,7 +19,7 @@ links:
     url: "https://cft.vanderbilt.edu/guides-sub-pages/teaching-portfolios/" 
   - icon: "newspaper"
     icon_pack: "far"
-    name: "What i a CURE?"
+    name: "What is a CURE?"
     url: https://www.lifescied.org/doi/full/10.1187/cbe.14-01-0004#_i2
 url_code: ''
 url_pdf: ''
@@ -54,6 +54,7 @@ I was a TA twice for an online graduate course titled Computing for Research. Th
 
 Teaching Materials
 {style="color: #F76497"}
+Insert office hour videos
 
 **TA for Genomics Research Experience**
 {style="color: #F76497"}
@@ -61,7 +62,7 @@ I was a TA for a online CURE titled Genomic Research Experience. The class taugh
 
 Teaching Materials
 {style="color: #F76497"}
-
+Insert progress report examples
 ## Areas of Interest 
 
 ## Materials Demonstrating Student Learning
