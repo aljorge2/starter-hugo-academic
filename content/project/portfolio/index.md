@@ -19,7 +19,7 @@ links:
     url: "https://cft.vanderbilt.edu/guides-sub-pages/teaching-portfolios/" 
   - icon: "newspaper"
     icon_pack: "far"
-    name: "What is a CURE?"
+    name: "What i a CURE?"
     url: https://www.lifescied.org/doi/full/10.1187/cbe.14-01-0004#_i2
 url_code: ''
 url_pdf: ''
