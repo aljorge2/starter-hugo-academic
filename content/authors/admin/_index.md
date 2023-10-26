@@ -112,5 +112,5 @@ social:
 highlight_name: true
 ---
 
-I am a Master's student studying Computational Life Sciences at Arizona State University. I research sex differential gene expression in viral-mediated Hepatocellular Carcinoma. I also am helping develop a CURE at ASU Online and analyzing the engagement of students in the course.
+My name is Annika Jorgensen I am currently a Master's student at Arizona State University studying Computational Life Sciences. I currently research sex differential in sex chromosomes and helping develop a CURE (Course Based Undergraduate Research Experience) at ASU and researching student engagement within that class. My hobbies include reading, hiking and rock climbing.  My career goal is to become a bioinformatician in industry. 
 {style="text-align: justify;"}
