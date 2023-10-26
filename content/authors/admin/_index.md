@@ -41,7 +41,7 @@ education:
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 skills:
-  - name: Software
+  - name: Techniques
     items:
     - name: git
       description: ''
@@ -60,16 +60,16 @@ skills:
       icon_pack: fas
   - name: Languages
     color: '#f76497'
-    color_border: '#f0bf23'
+    color_border: '#f76497'
     items:
       - name: R/Rstudio
         description: ''
-        percent: 100
+        percent: 90
         icon: r-project
         icon_pack: fab
       - name: Python
         description: ''
-        percent: 100
+        percent: 60
         icon: python
         icon_pack: fab
       - name: bash
