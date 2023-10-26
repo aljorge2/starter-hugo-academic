@@ -6,7 +6,7 @@ subtitle: My name is Annika Jorgensen and here is a little bit about me
 summary: My name is Annika Jorgensen and here is a little bit about me
 
 # Link this post with a project
-projects: []
+#projects: [portfolio]
 
 # Date published
 date: '2023-10-19T00:00:00Z'
@@ -15,7 +15,7 @@ date: '2023-10-19T00:00:00Z'
 lastmod: '2023-10-19T00:00:00Z'
 
 # Is this an unpublished draft?
-draft: false
+draft: true
 
 # Show this page in the Featured widget?
 featured: true
