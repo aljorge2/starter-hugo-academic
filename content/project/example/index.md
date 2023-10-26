@@ -8,6 +8,9 @@ date: '2023-10-19T00:00:00Z'
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
+# Display in featured widget
+featured: true
+
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart

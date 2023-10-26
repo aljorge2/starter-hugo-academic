@@ -160,6 +160,7 @@ sections:
           url: ''
     design:
       columns: '2'
+  
   #- block: collection
    # id: posts
    # content:
@@ -187,6 +188,17 @@ sections:
       # Choose a layout view
      # view: compact
       #columns: '2'
+  - block: collection
+    id: featured
+    content:
+      title: Featured Project
+      filters:
+        folders:
+          - project
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
   - block: portfolio
     id: projects
     content:
@@ -222,17 +234,6 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
   - block: collection
     content:
       title: Recent Publications

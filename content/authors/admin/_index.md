@@ -43,20 +43,20 @@ education:
 skills:
   - name: Techniques
     items:
-    - name: git
+    - name: Sequence Alignment
       description: ''
       percent: 100
-      icon: git-alt
-      icon_pack: fab
+      icon: microscope
+      icon_pack: fas
     - name: Data Science
       description: ''
-      percent: 100
+      percent: 70
       icon: chart-line
       icon_pack: fas
-    - name: SQL
+    - name: Variant Calling
       description: ''
-      percent: 100
-      icon: database
+      percent: 90
+      icon: dna
       icon_pack: fas
   - name: Languages
     color: '#f76497'
