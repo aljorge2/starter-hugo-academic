@@ -9,13 +9,13 @@ summary: My name is Annika Jorgensen and here is a little bit about me
 #projects: [portfolio]
 
 # Date published
-date: '2023-10-19T00:00:00Z'
+date: '2023-10-31T00:00:00Z'
 
 # Date updated
-lastmod: '2023-10-19T00:00:00Z'
+lastmod: '2023-31-19T00:00:00Z'
 
 # Is this an unpublished draft?
-draft: true
+draft: false
 
 # Show this page in the Featured widget?
 featured: true
@@ -32,13 +32,13 @@ authors:
   - admin
  # - 吳恩達
 
-tags:
-  - Academic
-  - Biography
+#tags:
+ # - Academic
+ # - Biography
 
-categories:
-  - Biography
-  - Author
+#categories:
+ # - Biography
+  #- Author
 ---
 
 ## Overview
