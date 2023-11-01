@@ -134,30 +134,30 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+        - certificate_url: ""
+          date_end: '2023-05-08'
+          date_start: '2021-11-08'
+          description: 'Sex-biased gene expression and pathway activation in hepatitis-associated HCC'
+          organization: Sex Chromosome Lab
+          organization_url: https://www.sexchrlab.org/
+          title: Undergraduate Honors Thesis
+          url: ""
+       # - certificate_url: https://www.edx.org
+        #  date_end: ''
+         # date_start: '2021-01-01'
+         # description: Formulated informed blockchain models, hypotheses, and use cases.
+          #organization: edX
+          #organization_url: https://www.edx.org
+          #title: Blockchain Fundamentals
+          #url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+        #- certificate_url: https://www.datacamp.com
+         # date_end: '2020-12-21'
+          #date_start: '2020-07-01'
+          #description: ''
+          #organization: DataCamp
+          #organization_url: https://www.datacamp.com
+          #title: 'Object-Oriented Programming in R'
+          #url: ''
     design:
       columns: '2'
   
@@ -220,58 +220,60 @@ sections:
           tag: DEA
         - name: Teaching Portfolio
           tag: Portfolio
-    design:
+   # design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: showcase
+    #  columns: '1'
+     # view: showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+      #flip_alt_rows: false
+ # - block: markdown
+  #  content:
+   #   title: Gallery
+    #  subtitle: ''
+     # text: |-
+    #    {{< gallery album="demo" >}}
+   # design:
+    #  columns: '1'
+# - block: collection
+ #   content:
+  #    title: Recent Publications
+   #   text: |-
+    #    {{% callout note %}}
+     #   Quickly discover relevant content by [filtering publications](./publication/).
+     #   {{% /callout %}}
+    #  filters:
+     #   folders:
+      #    - publication
+       # exclude_featured: true
+   # design:
+    #  columns: '2'
+     # view: citation
+ # - block: collection
+  #  id: talks
+   # content:
+    #  title: Recent & Upcoming Talks
+     # filters:
+      #  folders:
+       #   - event
+   # design:
+    #  columns: '2'
+     # view: compact
+ # - block: tag_cloud
+  #  content:
+   #   title: Popular Topics
+   # design:
+    #  columns: '2'
   - block: contact
     id: contact
     content:
       title: Contact
       subtitle:
       text: |-
-        Contact me below with any questions or collaboration ideas
+        
+
+        <a href="mailto:aljorge2@asu.edu?subject=Potential Collaboration&body=I would like to collaborate with you.">Contact me </a> with any questions or collaboration ideas
       # Contact (add or remove contact options as necessary)
-      email: aljorge2@asu.edu
+      #email: aljorge2@asu.edu
       #phone: 888 888 88 88
       #appointment_url: 'https://calendly.com'
       #address:

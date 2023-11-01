@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Resume"
 subtitle: ""
 
 # Summary for listings and search engines
