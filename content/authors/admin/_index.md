@@ -112,5 +112,6 @@ social:
 highlight_name: true
 ---
 
-My name is Annika Jorgensen I am currently a Master's student at Arizona State University studying Computational Life Sciences. I currently research sex differential in sex chromosomes and helping develop a CURE (Course Based Undergraduate Research Experience) at ASU and researching student engagement within that class. My hobbies include reading, hiking and rock climbing.  My career goal is to become a bioinformatician in industry. 
+I am currently a Master’s student at Arizona State University studying Computational Life Sciences. I research differential gene expression in The Sex Chromosome Lab and am helping develop a CURE (Course Based Undergraduate Research Experience) at ASU and researching student engagement within that class. My hobbies include reading, hiking and rock climbing. My career goal is to become a bioinformatician in industry.
+ 
 {style="text-align: justify;"}

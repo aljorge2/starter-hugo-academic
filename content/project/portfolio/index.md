@@ -41,7 +41,7 @@ This project details my teaching portfolio. This portfolio lists my teaching exp
 
 ## Biography 
 {style="color: #F76497"}
-My name is Annika Jorgensen I am currently a Master's student at Arizona State University studying Computational Life Science. My Bachelor's degree is in Biophysics from Arizona State University. I currently and researching sex differential in sex chromosomes and helping develop a CURE (Course Based Undergraduate Research Experience) at ASU and researching student engagement within that class. My career goal is to become a bioinformatician in industry.
+I am currently a Master’s student at Arizona State University studying Computational Life Sciences. I research differential gene expression in The Sex Chromosome Lab and am helping develop a CURE (Course Based Undergraduate Research Experience) at ASU and researching student engagement within that class. My hobbies include reading, hiking and rock climbing. My career goal is to become a bioinformatician in industry.
 
  I have been teaching for seven years. I ran a preschool class for one and have been teaching kids in how to read for five years. I have also been a TA for graduate level classes for two years. I enjoyed teaching because I have always enjoyed getting people excited about learning. I started teaching by becoming a tutor at a company and running a preschool class at their center. I then transferred to Kumon as a tutor where I worked there for four years teaching kids how to read.  
 
