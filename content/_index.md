@@ -121,71 +121,30 @@ sections:
               * Creating government official datasheets
     design:
       columns: '2'
-  - block: accomplishments
-    content:
+  #- block: accomplishments
+   # content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Certificates'
-      subtitle:
+    #  title: 'Certificates'
+     # subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
+      #date_format: Jan 2006
       # Accomplishments.
       #   Add/remove as many `item` blocks below as you like.
       #   `title`, `organization`, and `date_start` are the required parameters.
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Data Analysis with Pandas 
-          certificate_url: "uploads/DataAnalysisWithPandas.pdf" 
-          date_end: ''
-          date_start: '2023-11-20'
-          description: 'Data cleaning, plotting, linear regression, basic statistics, correlation coefficients'
-          organization: Zenva Academy
-          organization_url: https://academy.zenva.com/
-          url: "https://github.com/aljorge2/DataAnalysisPandasZenvaTutorial" 
-        - title: Build a Medical Diagnosis Bot   with Python
-          certificate_url: "uploads/MedicalDiagnosisBot.pdf"
-          date_end: ''
-          date_start: '2023-11-19'
-          description: Created a script that diagnoses a patient's state of dehydration based on a short questionnaire. The script stores a list of patients and their diagnoses and the user can retrieve the list of patients.
-          organization: Zenva Academy
-          organization_url: https://academy.zenva.com/
-          url: 
-        - title: Intro to Object-Oriented Programming with Python
-          certificate_url: "uploads/IntroObjectOrientPython.pdf"
-          date_end: 
-          date_start: '2023-11-19'
-          description: Data types, variables, operators, lists, tuples, dictionaries, control flow, functions, objects, classes, inheritence
-          icon: datacamp
-          organization: Zenva Academy
-          organization_url: https://academy.zenva.com/
-          url: ''
-        - title: Data Manipulation with Pandas
-          certificate_url: "uploads/DataManipulationPandas.pdf"
-          date_end: 
-          date_start: '2023-11-19'
-          description: 'Dataframes, selecting data, sorting data, filtering data, grouping data'
-          organization: Zenva Academy
-          organization_url: https://academy.zenva.com/
-          url: ''
-        - title: 'Python Turtle Mini-Projects'
-          certificate_url: "uploads/PythonTurtleMiniProjects.pdf"
-          date_end: 
-          date_start: '2023-11-18'
-          description: 'data manipulation and storage with variables, creating functions and conditions, randomness, loops'
-          organization: Zenva Academy
-          organization_url: https://academy.zenva.com/
-          url: ''
-        - title: 'Intro to Coding with Python Turtle'
-          certificate_url: "uploads/IntroPythonTurtle.pdf"
-          date_end: 
-          date_start: '2023-11-17'
-          description: 'concept of programming, flowcharts, pseudocode, concept of Python Turtle, hexademical colors, moving and turning the turtle, filling in shapes, changing background color, lifting the pen'
-          organization: Zenva Academy
-          organization_url: https://academy.zenva.com/
+      #items:
+       # - title: 'Intro to Coding with Python Turtle'
+        #  certificate_url: "uploads/IntroPythonTurtle.pdf"
+         # date_end: 
+          #date_start: '2023-11-17'
+          #description: 'concept of programming, flowcharts, pseudocode, concept of Python Turtle, hexademical colors, moving and turning the turtle, filling in shapes, changing background color, lifting the pen'
+          #organization: Zenva Academy
+          #organization_url: https://academy.zenva.com/
           
-          url: ''
-    design:
-      columns: '2'
+  #        url: ''
+   # design:
+    #  columns: '2'
   
   #- block: collection
    # id: posts
@@ -229,7 +188,7 @@ sections:
       columns: '2'
       view: card
   - block: portfolio
-    id: projects
+    id: certificates
     content:
       title: Certificates
       filters:
@@ -251,6 +210,8 @@ sections:
           tag: turtle
         - name: Medical Bot
           tag: bot
+        - name: Object-Oriented
+          tag: object
   - block: collection
     id: featured
     content:
