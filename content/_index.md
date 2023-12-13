@@ -124,7 +124,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Conferences and Papers'
+      title: 'Certificates'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -134,30 +134,54 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: ""
-          date_end: '2023-05-08'
-          date_start: '2021-11-08'
-          description: 'Sex-biased gene expression and pathway activation in hepatitis-associated HCC'
-          organization: Sex Chromosome Lab
-          organization_url: https://www.sexchrlab.org/
-          title: Undergraduate Honors Thesis
+        - certificate_url: "uploads/DataAnalysisWithPandas.pdf"
+          date_end: ''
+          date_start: '2023-11-20'
+          description: 'Data cleaning, plotting, linear regression, basic statistics, correlation coefficients'
+          organization: Zenva Academy
+          organization_url: https://academy.zenva.com/
+          title: Data Analysis with Pandas
           url: ""
-       # - certificate_url: https://www.edx.org
-        #  date_end: ''
-         # date_start: '2021-01-01'
-         # description: Formulated informed blockchain models, hypotheses, and use cases.
-          #organization: edX
-          #organization_url: https://www.edx.org
-          #title: Blockchain Fundamentals
-          #url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        #- certificate_url: https://www.datacamp.com
-         # date_end: '2020-12-21'
-          #date_start: '2020-07-01'
-          #description: ''
-          #organization: DataCamp
-          #organization_url: https://www.datacamp.com
-          #title: 'Object-Oriented Programming in R'
-          #url: ''
+        - certificate_url: "uploads/MedicalDiagnosisBot.pdf"
+          date_end: ''
+          date_start: '2023-11-19'
+          description: Created a script that diagnoses a patient's state of dehydration based on a short questionnaire. The script stores a list of patients and their diagnoses and the user can retrieve the list of patients.
+          organization: Zenva Academy
+          organization_url: https://academy.zenva.com/
+          title: Build a Medical Diagnosis Bot with Python
+          url: 
+        - certificate_url: "uploads/IntroObjectOrientPython.pdf"
+          date_end: 
+          date_start: '2023-11-19'
+          description: 'Data types, variables, operators, lists, tuples, dictionaries, control flow, functions, objects, classes, inheritence'
+          organization: Zenva Academy
+          organization_url: https://academy.zenva.com/
+          title: 'Intro to Object-Oriented Programming with Python'
+          url: ''
+        - certificate_url: "uploads/DataManipulationPandas.pdf"
+          date_end: 
+          date_start: '2023-11-19'
+          description: 'Dataframes, selecting data, sorting data, filtering data, grouping data'
+          organization: Zenva Academy
+          organization_url: https://academy.zenva.com/
+          title: 'Data Manipulation with Pandas'
+          url: ''
+        - certificate_url: "uploads/PythonTurtleMiniProjects.pdf"
+          date_end: 
+          date_start: '2023-11-18'
+          description: 'data manipulation and storage with variables, creating functions and conditions, randomness, loops'
+          organization: Zenva Academy
+          organization_url: https://academy.zenva.com/
+          title: 'Python Turtle Mini-Projects'
+          url: ''
+        - certificate_url: "uploads/IntroPythonTurtle.pdf"
+          date_end: 
+          date_start: '2023-11-17'
+          description: 'concept of programming, flowcharts, pseudocode, concept of Python Turtle, hexademical colors, moving and turning the turtle, filling in shapes, changing background color, lifting the pen'
+          organization: Zenva Academy
+          organization_url: https://academy.zenva.com/
+          title: 'Intro to Coding with Python Turtle'
+          url: ''
     design:
       columns: '2'
   
@@ -220,6 +244,8 @@ sections:
           tag: DEA
         - name: Teaching Portfolio
           tag: Portfolio
+        - name: Python Projects
+          tag: Python
    # design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
     #  columns: '1'

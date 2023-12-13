@@ -64,7 +64,7 @@ skills:
     items:
       - name: R/Rstudio
         description: ''
-        percent: 90
+        percent: 80
         icon: r-project
         icon_pack: fab
       - name: Python
