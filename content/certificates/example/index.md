@@ -18,6 +18,7 @@ featured: true
 links:
   - icon: github-alt
     icon_pack: fab
+    url: https://github.com/aljorge2/DataAnalysisPandasZenvaTutorial
     name: Code
   - icon: newspaper
     icon_pack: far
