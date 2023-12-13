@@ -1,18 +1,18 @@
 ---
-title: "Resume"
+title: "Data Analysis with Pandas"
 subtitle: ""
 
 # Summary for listings and search engines
 summary: ""
 
 # Link this post with a project
-#projects: [portfolio]
+projects: [python]
 
 # Date published
-date: '2023-10-19T00:00:00Z'
+date: '2023-11-19T00:00:00Z'
 
 # Date updated
-lastmod: '2023-10-31T00:00:00Z'
+lastmod: ''
 
 # Is this an unpublished draft?
 draft: true
@@ -41,15 +41,4 @@ authors:
   #- Author
 ---
 
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Resume</title>
-  </head>
-  <body>
-    <h1>Resume</h1>
-    <object data="resume.pdf" type="application/pdf" width="100%" height="900px">
-      <p>Unable to display PDF file. <a href="/uploads/resume2.pdf">Download</a> instead.</p>
-    </object>
-  </body>
-</html>
+Zenva Academy

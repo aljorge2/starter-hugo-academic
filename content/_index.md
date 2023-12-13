@@ -134,65 +134,70 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: "uploads/DataAnalysisWithPandas.pdf"
+        - title: Data Analysis with Pandas 
+          certificate_url: "uploads/DataAnalysisWithPandas.pdf" 
           date_end: ''
           date_start: '2023-11-20'
           description: 'Data cleaning, plotting, linear regression, basic statistics, correlation coefficients'
           organization: Zenva Academy
           organization_url: https://academy.zenva.com/
-          title: Data Analysis with Pandas
-          url: ""
-        - certificate_url: "uploads/MedicalDiagnosisBot.pdf"
+          url: "https://github.com/aljorge2/DataAnalysisPandasZenvaTutorial" 
+        - title: Build a Medical Diagnosis Bot   with Python
+          certificate_url: "uploads/MedicalDiagnosisBot.pdf"
           date_end: ''
           date_start: '2023-11-19'
           description: Created a script that diagnoses a patient's state of dehydration based on a short questionnaire. The script stores a list of patients and their diagnoses and the user can retrieve the list of patients.
           organization: Zenva Academy
           organization_url: https://academy.zenva.com/
-          title: Build a Medical Diagnosis Bot with Python
           url: 
-        - certificate_url: "uploads/IntroObjectOrientPython.pdf"
+        - title: Intro to Object-Oriented Programming with Python
+          certificate_url: "uploads/IntroObjectOrientPython.pdf"
           date_end: 
           date_start: '2023-11-19'
-          description: 'Data types, variables, operators, lists, tuples, dictionaries, control flow, functions, objects, classes, inheritence'
+          description: Data types, variables, operators, lists, tuples, dictionaries, control flow, functions, objects, classes, inheritence
+          icon: datacamp
           organization: Zenva Academy
           organization_url: https://academy.zenva.com/
-          title: 'Intro to Object-Oriented Programming with Python'
           url: ''
-        - certificate_url: "uploads/DataManipulationPandas.pdf"
+        - title: Data Manipulation with Pandas
+          certificate_url: "uploads/DataManipulationPandas.pdf"
           date_end: 
           date_start: '2023-11-19'
           description: 'Dataframes, selecting data, sorting data, filtering data, grouping data'
           organization: Zenva Academy
           organization_url: https://academy.zenva.com/
-          title: 'Data Manipulation with Pandas'
           url: ''
-        - certificate_url: "uploads/PythonTurtleMiniProjects.pdf"
+        - title: 'Python Turtle Mini-Projects'
+          certificate_url: "uploads/PythonTurtleMiniProjects.pdf"
           date_end: 
           date_start: '2023-11-18'
           description: 'data manipulation and storage with variables, creating functions and conditions, randomness, loops'
           organization: Zenva Academy
           organization_url: https://academy.zenva.com/
-          title: 'Python Turtle Mini-Projects'
           url: ''
-        - certificate_url: "uploads/IntroPythonTurtle.pdf"
+        - title: 'Intro to Coding with Python Turtle'
+          certificate_url: "uploads/IntroPythonTurtle.pdf"
           date_end: 
           date_start: '2023-11-17'
           description: 'concept of programming, flowcharts, pseudocode, concept of Python Turtle, hexademical colors, moving and turning the turtle, filling in shapes, changing background color, lifting the pen'
           organization: Zenva Academy
           organization_url: https://academy.zenva.com/
-          title: 'Intro to Coding with Python Turtle'
+          
           url: ''
     design:
       columns: '2'
   
   #- block: collection
    # id: posts
-   # content:
-    #  title: Posts
-     # subtitle: ''
-     # text: ''
+    #content:
+     # title: Certificates
+      #subtitle: 
+      #text: |-
+       # {{% callout note %}}
+        #Cluster Analysis Certificate earned Dec. 12th 
+        #{{% /callout %}}
       # Choose how many pages you would like to display (0 = all pages)
-      #count: 5
+      #count: 0
       # Filter on criteria
       #filters:
        # folders:
@@ -210,8 +215,42 @@ sections:
       #order: desc
     #design:
       # Choose a layout view
-     # view: compact
+     # view: card
       #columns: '2'
+  - block: collection
+    id: featured
+    content:
+      title: Featured Certificate
+      filters:
+        folders:
+          - certificates
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
+  - block: portfolio
+    id: projects
+    content:
+      title: Certificates
+      filters:
+        folders:
+          - certificates
+      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+      default_button_index: 0
+      # Filter toolbar (optional).
+      # Add or remove as many filters (`filter_button` instances) as you like.
+      # To show all items, set `tag` to "*".
+      # To filter by a specific tag, set `tag` to an existing tag name.
+      # To remove the toolbar, delete the entire `filter_button` block.
+      buttons:
+        - name: All
+          tag: '*'
+        - name: Pandas
+          tag: pandas
+        - name: Turtle
+          tag: turtle
+        - name: Medical Bot
+          tag: bot
   - block: collection
     id: featured
     content:
@@ -246,6 +285,7 @@ sections:
           tag: Portfolio
         - name: Python Projects
           tag: Python
+  
    # design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
     #  columns: '1'
