@@ -21,7 +21,7 @@ organizations:
     url: https://www.asu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Master's student studying Computational Life Sciences at Arizona State University. I research sex differential gene expression in viral-mediated Hepatocellular Carcinoma. I also am helping develop a CURE at ASU Online and analyzing the engagement of students in the course.
+bio: I am recently graduated Master's student from Arizona State University studying Computational Life Sciences. I research sex differential gene expression in viral-mediated Hepatocellular Carcinoma. I also am helping develop a CURE at ASU Online and analyzing the engagement of students in the course.
 # Interests to show in About widget
 interests:
   - Computational Biology
@@ -33,7 +33,7 @@ education:
   courses:
     - course: Master's Computational Life Sciences
       institution: Arizona State University
-      year: 2025
+      year: 2024
     - course: Honors Bachelor's Biophysics
       institution: Arizona State University
       year: 2023
@@ -112,6 +112,6 @@ social:
 highlight_name: true
 ---
 
-I am currently a Master’s student at Arizona State University studying Computational Life Sciences. I research differential gene expression in The Sex Chromosome Lab and am helping develop a CURE (Course Based Undergraduate Research Experience) at ASU and researching student engagement within that class. My hobbies include reading, hiking and rock climbing. My career goal is to become a bioinformatician in industry.
+I am recently graduated Master’s student from Arizona State University with a degree in Computational Life Sciences. I research differential gene expression in The Sex Chromosome Lab and am helping develop a CURE (Course Based Undergraduate Research Experience) at ASU and researching student engagement within that class. My hobbies include reading, hiking and rock climbing. My career goal is to become a bioinformatician in academia or industry.
  
 {style="text-align: justify;"}

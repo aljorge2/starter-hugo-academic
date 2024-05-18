@@ -68,17 +68,17 @@ sections:
          # company_logo: org-gc
           location: Arizona
           date_start: '2021-11-01'
-          date_end: ''
+          date_end: '2024-05-01'
           description: Currently working on two projects. I research sex differential gene expression in viral-mediated Hepatocellular Carcinoma. I also help develop a CURE at ASU Online and analyzing the engagement of students in the course.
 
-        - title: Teaching Assistant- Computing for Research & CURE
+        - title: Teaching Assistant
           company: Arizona State University
-          #company_url: ''
+          company_url: 'https://asuonline.asu.edu/?utm_source=google&utm_medium=cpc&utm_content=BR_Main_ASU_Non&utm_campaign=22-Nat_Acq-Hi_BR_Main_Non_OS&utm_ecd22=22&utm_term=asu&gad_source=1&gclid=Cj0KCQjwgJyyBhCGARIsAK8LVLOgHy9waTchmzNfc0UimTqm9pKklytUSTi_mhca2DUuAsLkWMPnbGUaAluQEALw_wcB&gclsrc=aw.ds'
           #company_logo: org-x
           location: Arizona
           date_start: '2022-08-01'
-          date_end: 
-          description: Educated students on writing bash scripts and logging onto a cluster through SSH. I also taught students how to work with SAM and BAM files, run sequence alignment algorithms, and call variants. 
+          date_end: '2024-05-01'
+          description: I was the teaching assistant for the following courses, Computing for Research, Genomic Research Experience, and Functional Genomics. I educated students on writing bash scripts and logging onto a cluster through SSH. I taught students how to work with SAM and BAM files, run sequence alignment algorithms, and call variants. I help students learn the basic molecular functions in genomics as well as interpreting common genomic data analysis, and how to access publically available genomic data. 
 
         - title: Compliance Editor
           company: American Preparatory Academy
