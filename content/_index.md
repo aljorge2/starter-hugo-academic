@@ -78,7 +78,7 @@ sections:
           location: Arizona
           date_start: '2022-08-01'
           date_end: '2024-05-01'
-          description: I was the teaching assistant for the following courses, Computing for Research, Genomic Research Experience, and Functional Genomics. I educated students on writing bash scripts and logging onto a cluster through SSH. I taught students how to work with SAM and BAM files, run sequence alignment algorithms, and call variants. I help students learn the basic molecular functions in genomics as well as interpreting common genomic data analysis, and how to access publically available genomic data. 
+          description: I was the teaching assistant for the following courses, Computing for Research, Genomics Research Experience, and Functional Genomics. I educated students on writing bash scripts and logging onto a cluster through SSH. I taught students how to work with SAM and BAM files, run sequence alignment algorithms, and call variants. I helped students learn the basic molecular functions in genomics as well as interpreting common genomic data analysis, and how to access publically available genomic data. 
 
         - title: Compliance Editor
           company: American Preparatory Academy

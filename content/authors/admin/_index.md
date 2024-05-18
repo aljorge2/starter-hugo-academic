@@ -112,6 +112,6 @@ social:
 highlight_name: true
 ---
 
-I am recently graduated Master’s student from Arizona State University with a degree in Computational Life Sciences. I research differential gene expression in The Sex Chromosome Lab and am helping develop a CURE (Course Based Undergraduate Research Experience) at ASU and researching student engagement within that class. My hobbies include reading, hiking and rock climbing. My career goal is to become a bioinformatician in academia or industry.
+I am a recently graduated Master’s student from Arizona State University with a degree in Computational Life Sciences. I research differential gene expression in The Sex Chromosome Lab and am helping develop a CURE (Course Based Undergraduate Research Experience) at ASU and researching student engagement within that class. My hobbies include reading, hiking, and rock climbing. My career goal is to become a bioinformatician in academia or industry.
  
 {style="text-align: justify;"}
