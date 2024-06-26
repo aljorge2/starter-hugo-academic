@@ -62,6 +62,15 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Bioinformatics Programmer
+          company: University of California San Diego School of Medicine
+          company_url: 'http://xinsunlab.org/'
+         # company_logo: org-gc
+          location: San Diego
+          date_start: '2024-07-08'
+          date_end: ''
+          description: I research the lung using spatial epigenomics. We are developing the first open access dataset of single nucleus RNAseq and ATACseq normal human lung samples.
+
         - title: Research Assistant
           company: Dr. Melissa Wilson Sex Chromosome Lab
           company_url: 'https://www.sexchrlab.org/'
@@ -69,7 +78,7 @@ sections:
           location: Arizona
           date_start: '2021-11-01'
           date_end: '2024-05-01'
-          description: Currently working on two projects. I research sex differential gene expression in viral-mediated Hepatocellular Carcinoma. I also help develop a CURE at ASU Online and analyzing the engagement of students in the course.
+          description: I researched sex differential gene expression in viral-mediated Hepatocellular Carcinoma. I also helped develop a CURE at ASU Online and analyzing the engagement of students in the course.
 
         - title: Teaching Assistant
           company: Arizona State University

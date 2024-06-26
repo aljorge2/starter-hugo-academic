@@ -13,20 +13,22 @@ last_name: Jorgensen
 superuser: true
 
 # Role/position/tagline
-role: Graduate Student Bioinformatics
+role: Bioinformatics Programmer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Arizona State University
-    url: https://www.asu.edu/
+  - name: Xin Sun Lab
+    url: http://xinsunlab.org/index.html
+  - name: Center for Epigenomics
+    url: https://cmm.ucsd.edu/research/epigenomics/index.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am recently graduated Master's student from Arizona State University studying Computational Life Sciences. I research sex differential gene expression in viral-mediated Hepatocellular Carcinoma. I also am helping develop a CURE at ASU Online and analyzing the engagement of students in the course.
+bio: I am a Bioinformatics programmer with a Master's Degree in Computational Life Sciences. I work in the Pediatrics Department of University of California San Diego's School of Medicine researching the lung using spatial epigenomics. We are developing the first open access dataset of single nucleus RNAseq and ATACseq normal human lung samples. Outside of work, my hobbies are reading, hiking, and rock climbing.
 # Interests to show in About widget
 interests:
   - Computational Biology
   - Bioinformatics
-  - Cancer Genomics
+  - Epigenomics
 
 # Education to show in About widget
 education:
@@ -112,6 +114,6 @@ social:
 highlight_name: true
 ---
 
-I am a recently graduated Master’s student from Arizona State University with a degree in Computational Life Sciences. I research differential gene expression in The Sex Chromosome Lab and am helping develop a CURE (Course Based Undergraduate Research Experience) at ASU and researching student engagement within that class. My hobbies include reading, hiking, and rock climbing. My career goal is to become a bioinformatician in academia or industry.
+I am a Bioinformatics programmer with a Master's Degree in Computational Life Sciences. I work in the Pediatrics Department of University of California San Diego's School of Medicine researching the lung using spatial epigenomics. We are developing the first open access dataset of single nucleus RNAseq and ATACseq normal human lung samples. Outside of work, my hobbies are reading, hiking, and rock climbing. 
  
 {style="text-align: justify;"}
