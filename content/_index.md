@@ -63,10 +63,10 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Bioinformatics Programmer
-          company: University of California San Diego School of Medicine
+          company: Dr. Xin Sun Lab
           company_url: 'http://xinsunlab.org/'
          # company_logo: org-gc
-          location: San Diego
+          location: San Diego, California 
           date_start: '2024-07-08'
           date_end: ''
           description: I research the lung using spatial epigenomics. We are developing the first open access dataset of single nucleus RNAseq and ATACseq normal human lung samples.
@@ -75,7 +75,7 @@ sections:
           company: Dr. Melissa Wilson Sex Chromosome Lab
           company_url: 'https://www.sexchrlab.org/'
          # company_logo: org-gc
-          location: Arizona
+          location: Tempe, Arizona
           date_start: '2021-11-01'
           date_end: '2024-05-01'
           description: I researched sex differential gene expression in viral-mediated Hepatocellular Carcinoma. I also helped develop a CURE at ASU Online and analyzing the engagement of students in the course.
@@ -84,7 +84,7 @@ sections:
           company: Arizona State University
           company_url: 'https://asuonline.asu.edu/?utm_source=google&utm_medium=cpc&utm_content=BR_Main_ASU_Non&utm_campaign=22-Nat_Acq-Hi_BR_Main_Non_OS&utm_ecd22=22&utm_term=asu&gad_source=1&gclid=Cj0KCQjwgJyyBhCGARIsAK8LVLOgHy9waTchmzNfc0UimTqm9pKklytUSTi_mhca2DUuAsLkWMPnbGUaAluQEALw_wcB&gclsrc=aw.ds'
           #company_logo: org-x
-          location: Arizona
+          location: Tempe, Arizona
           date_start: '2022-08-01'
           date_end: '2024-05-01'
           description: I was the teaching assistant for the following courses, Computing for Research, Genomics Research Experience, and Functional Genomics. I educated students on writing bash scripts and logging onto a cluster through SSH. I taught students how to work with SAM and BAM files, run sequence alignment algorithms, and call variants. I helped students learn the basic molecular functions in genomics as well as interpreting common genomic data analysis, and how to access publically available genomic data. 
@@ -93,7 +93,7 @@ sections:
           company: American Preparatory Academy
           company_url: 'https://www.americanprep.org/'
          # company_logo: org-x
-          location: Utah
+          location: Draper, Utah
           date_start: '2021-08-01'
           date_end: '2023-05-31'
           description: |2-
@@ -109,7 +109,7 @@ sections:
           company: SciHub ASU
           company_url: 'https://scihub.asu.edu/'
           #company_logo: org-x
-          location: Arizona 
+          location: Tempe, Arizona 
           date_start: '2020-05-08'
           date_end: '2021-11-01'
           description: Lead the Flourescence Spectroscopy Project where I aimed to create a portable flourescence spectrometer for consumer use. I learned how to operate spectorscopy equipment. I also drafted market studies for products and constructed electric circuits using reflow soldering.
@@ -118,7 +118,7 @@ sections:
           company: Civica
           company_url: 'https://civicarx.org/'
           #company_logo: org-x
-          location: Utah 
+          location: Lehi, Utah 
           date_start: '2020-05-08'
           date_end: '2021-03-01'
           description: |2-
